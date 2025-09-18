@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624577089206",
+    "firebase_url": "https://unipiaudiostories-22236-default-rtdb.firebaseio.com",
+    "project_id": "unipiaudiostories-22236",
+    "storage_bucket": "unipiaudiostories-22236.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624577089206:android:4a200d85ed317d8deba017",
+        "android_client_info": {
+          "package_name": "com.example.unipiaudiostories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624577089206-teagags161eb9sk17amasrf925g5o7nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unipiaudiostories",
+            "certificate_hash": "99f7cb73392f52a8e9e415c74b518c57969f151a"
+          }
+        },
+        {
+          "client_id": "624577089206-gv6e8n86knep718nho6hg43gj62pqekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhUStN29kEoLyEaavQdPAqRYxqehL-mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624577089206-gv6e8n86knep718nho6hg43gj62pqekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="welcome">Καλωσόρισες</string>
+    <string name="app_logo">Λογότυπο</string>
+    <string name="email">Ηλεκτρονικό Ταχυδρομείο</string>
+    <string name="password">Κωδικός</string>
+    <string name="sign_in">Σύνδεση</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="error_empty_fields">Παρακαλώ συμπληρώστε όλα τα πεδία.</string>
+    <string name="error_sign_in">Αποτυχία σύνδεσης. Ελέγξτε το email και τον κωδικό σας.</string>
+    <string name="error_sign_up">Αποτυχία εγγραφής. Ο χρήστης μπορεί ήδη να υπάρχει.</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="user_statistics">Στατιστικά Χρήστη</string>
+    <string name="user_story_times">Φορές που Ακούσατε Κάθε Ιστορία:</string>
+    <string name="global_story_times">Συνολικές Φορές που Ακούστηκε Κάθε Ιστορία (Παγκόσμια):</string>
+    <string name="favorite_story">Η Αγαπημένη Σας Ιστορία:</string>
+    <string name="popular_story">Η Πιο Δημοφιλής Ιστορία (Παγκόσμια):</string>
+    <string name="user_total_stories">Συνολικές Ιστορίες που Ακούσατε:\t</string>
+    <string name="global_total_stories">Συνολικές Ιστορίες που Ακούστηκαν (Παγκόσμια):\t</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+    <string name="mute_unmute">Σίγαση/Αποσίγαση\t</string>
+    <string name="select_voice">Επιλογή Φωνής</string>
+    <string name="volume">Ένταση</string>
+    <string name="select_language">Επιλογή Γλώσσας\t</string>
+    <string name="global_statistics">Παγκόσμια Στατιστικά</string>
+</resources>

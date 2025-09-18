@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="welcome">Welcome </string>
+    <string name="default_web_client_id" translatable="false">624577089206-gv6e8n86knep718nho6hg43gj62pqekl.apps.googleusercontent.com</string>
+    <string name="app_logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="error_empty_fields">Please fill in all fields.</string>
+    <string name="error_sign_in">Sign-in failed. Check your email and password.</string>
+    <string name="error_sign_up">Sign-up failed. User may already exist.</string>
+    <string name="logout">Logout</string>
+    <string name="user_statistics">User Statistics</string>
+    <string name="user_story_times">Times You Listened to Each Story:</string>
+    <string name="global_story_times">Total Times Each Story Was Listened To (Global):</string>
+    <string name="favorite_story">Your Favorite Story:</string>
+    <string name="popular_story">Most Popular Story (Global):</string>
+    <string name="user_total_stories">Total Stories You Listened To:</string>
+    <string name="global_total_stories">Total Stories Listened To (Global):</string>
+    <string name="global_statistics">Global Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="mute_unmute">Mute/Unmute</string>
+    <string name="select_voice">Select Voice</string>
+    <string name="volume">Volume</string>
+    <string name="select_language">Select Language</string>
+
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+</resources>

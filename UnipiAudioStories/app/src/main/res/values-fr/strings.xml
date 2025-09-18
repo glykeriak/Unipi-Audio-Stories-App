@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiAudioStories</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="app_logo">Logo</string>
+    <string name="email">Courriel</string>
+    <string name="password">Mot de passe</string>
+    <string name="sign_in">Connexion</string>
+    <string name="sign_up">Inscription</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs.</string>
+    <string name="error_sign_in">Connexion échouée. Vérifiez votre email et mot de passe.</string>
+    <string name="error_sign_up">Inscription échouée. L\'utilisateur existe peut-être déjà.</string>
+    <string name="logout">Déconnexion</string>
+    <string name="user_statistics">"Statistiques Utilisateur "</string>
+    <string name="user_story_times">Temps Écouté pour Chaque Histoire :</string>
+    <string name="global_story_times">Nombre Total de Fois que Chaque Histoire a été Écoutée (Mondial) :</string>
+    <string name="favorite_story">Votre Histoire Préférée :</string>
+    <string name="popular_story">L\'Histoire la Plus Populaire (Mondiale) :</string>
+    <string name="user_total_stories">Nombre Total d\'Histoires que Vous Avez Écoutées :</string>
+    <string name="global_total_stories">Nombre Total d\'Histoires Écoutées (Mondial) :</string>
+    <string name="settings">Paramètres</string>
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+    <string name="mute_unmute">"Muet/Démuet "</string>
+    <string name="select_voice">Sélectionner la Voix</string>
+    <string name="volume">"Volume "</string>
+    <string name="select_language">Sélectionner la Langue</string>
+    <string name="global_statistics">Statistiques Globales</string>
+</resources>
