@@ -1,4 +1,4 @@
-# Unipi-Audio-Stories-App
+# Audio-Stories-App
 
 ## Overview
 This project is an **Android application** developed in **Java** that provides interactive **audio stories**.  
